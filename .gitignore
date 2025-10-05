@@ -1,3 +1,5 @@
 models
+trash_dataset
 torch_models
 .conda
+img_classification_models
